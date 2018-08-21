@@ -1,0 +1,27 @@
+Create TABLE person(
+
+  id Integer PRIMARY KEY AUTO_INCREMENT,
+  age int,
+  name varchar(255),
+ address char(50),
+ city varchar(50),
+  state varchar(50),
+  zip int,
+
+);
+ragamut@gmail.com
+kranthik
+
+INSERT INTO Person(age,name,address,city,state,zip)VALUES (20,'chaithanya' , '1234 ' , 'Miami' , 'Florida' , '33143')
+
+insert into person values ()
+
+Create  TABLE book(
+
+Title varchar(50),
+author varccreathar(50),
+genre char(50)
+ 
+);
+INSERT``INTO book('The Complete regerence','Herbert','education')
+
